@@ -1,0 +1,31 @@
+{
+    "id": "com.fd.djaja.sap.sac.scanner",
+    "version": "0.0.2",
+    "name": "barcodeScan",
+    "description": "Barcode Scanner",
+    "newInstancePrefix": "barcodeScan",
+    "vendor": "Ferry Djaja",
+    "eula": "",
+    "license": "",
+    "imports": [ "input-controls" ],
+    "webcomponents": [
+      {
+        "kind": "main",
+        "tag": "com-fd-djaja-sap-sac-scanner",
+        "url": "/barcodescanner.js",
+        "integrity": "",
+        "ignoreIntegrity": true
+      }
+    ],
+    "properties": {
+      "metadata": {
+        "type": "string",
+        "description": "For internal use",
+        "default": ""
+      }
+    },
+    "methods": {
+    },
+    "events": {
+    }
+  }
