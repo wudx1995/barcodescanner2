@@ -12,7 +12,7 @@
       {
         "kind": "main",
         "tag": "com-fd-djaja-sap-sac-scanner",
-        "url": "/barcodescanner.js",
+        "url": "https://wudx1995.github.io/barcodescanner2/barcodescanner.js",
         "integrity": "",
         "ignoreIntegrity": true
       }
